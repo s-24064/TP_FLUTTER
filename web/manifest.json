@@ -1,6 +1,6 @@
 {
-    "name": "tp1",
-    "short_name": "tp1",
+    "name": "bloc_notes",
+    "short_name": "bloc_notes",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

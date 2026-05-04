@@ -1,4 +1,4 @@
-package com.example.tp1
+package com.example.bloc_notes
 
 import io.flutter.embedding.android.FlutterActivity
 

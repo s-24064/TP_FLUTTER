@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="tp1"
+        android:label="bloc_notes"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
